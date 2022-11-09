@@ -7,7 +7,7 @@ const config = {
 
     nickname: "Vaibhav", // nickname(optional)
 
-    pic: "https://telegra.ph/file/fc3c81adb0a58014a09d7.png", //image url of recipients (Mandatory)
+    pic: "https://github.com/vivekcyber2525/birhdayCard/blob/main/IMG_20221109_164940.jpg?raw=true", //image url of recipients (Mandatory)
 
     showScrollMsg: false, // set to false if you do not want the scrolling message
 };
@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "Happy Friendship Day";
+        document.querySelector(".HBD").textContent = "Happy Birthday Brother";
 
         frames[1].style.display = "flex";
 
