@@ -9,7 +9,7 @@ const config = {
 
     pic: "https://github.com/vivekcyber2525/birhdayCard/blob/main/IMG_20221109_164940.jpg?raw=true", //image url of recipients (Mandatory)
 
-    showScrollMsg: true, // set to false if you do not want the scrolling message
+    showScrollMsg: false, // set to false if you do not want the scrolling message
 };
 
 if(config.name) {
